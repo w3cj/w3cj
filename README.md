@@ -2,7 +2,7 @@
 
 I'm CJ.
 
-I am a Full Stack Developer 🥞, Educator 🏫, and Maker 🛠 based in the Denver 🏔 area.
+I am a Software Developer, Educator, and Maker based in the Denver area.
 
 I run the YouTube and Twitch channel Coding Garden.
 
