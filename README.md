@@ -4,7 +4,9 @@ I'm CJ.
 
 I am a Software Developer, Educator, and Maker based in the Denver area.
 
-I run the YouTube and Twitch channel Coding Garden.
+I make videos for [Syntax](https://www.youtube.com/@syntaxfm).
+
+I also run the YouTube and Twitch channel Coding Garden.
 
 * ❤️ Subscribe on YouTube: https://www.youtube.com/CodingGarden
 * 💜 Follow on Twitch: https://twitch.tv/CodingGarden
